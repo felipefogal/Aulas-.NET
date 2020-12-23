@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\bin\Debug\netcoreapp3.1\CondicionaisIf.exe
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\bin\Debug\netcoreapp3.1\CondicionaisIf.deps.json
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\bin\Debug\netcoreapp3.1\CondicionaisIf.runtimeconfig.json
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\bin\Debug\netcoreapp3.1\CondicionaisIf.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\bin\Debug\netcoreapp3.1\CondicionaisIf.dll
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\bin\Debug\netcoreapp3.1\CondicionaisIf.pdb
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.dll
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.pdb
+C:\workspace\aula_csharp_vs\CondicionaisIf\CondicionaisIf\obj\Debug\netcoreapp3.1\CondicionaisIf.genruntimeconfig.cache
