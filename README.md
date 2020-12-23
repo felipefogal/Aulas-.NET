@@ -1,2 +1,2 @@
-# aulas_donetCore
-Aulas de .Net Core usando C#
+# aulas_donet
+Aulas de .Net usando C#
