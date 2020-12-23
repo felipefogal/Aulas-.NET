@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\bin\Debug\netcoreapp3.1\CastingVariaveis.exe
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\bin\Debug\netcoreapp3.1\CastingVariaveis.deps.json
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\bin\Debug\netcoreapp3.1\CastingVariaveis.runtimeconfig.json
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\bin\Debug\netcoreapp3.1\CastingVariaveis.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\bin\Debug\netcoreapp3.1\CastingVariaveis.dll
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\bin\Debug\netcoreapp3.1\CastingVariaveis.pdb
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.dll
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.pdb
+C:\workspace\aula_csharp_vs\CastingVariaveis\CastingVariaveis\obj\Debug\netcoreapp3.1\CastingVariaveis.genruntimeconfig.cache
