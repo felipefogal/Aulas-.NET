@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\bin\Debug\netcoreapp3.1\AulaMatrizes.exe
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\bin\Debug\netcoreapp3.1\AulaMatrizes.deps.json
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\bin\Debug\netcoreapp3.1\AulaMatrizes.runtimeconfig.json
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\bin\Debug\netcoreapp3.1\AulaMatrizes.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\bin\Debug\netcoreapp3.1\AulaMatrizes.dll
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\bin\Debug\netcoreapp3.1\AulaMatrizes.pdb
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.dll
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.pdb
+C:\workspace\aula_csharp_vs\AulaMatrizes\AulaMatrizes\obj\Debug\netcoreapp3.1\AulaMatrizes.genruntimeconfig.cache

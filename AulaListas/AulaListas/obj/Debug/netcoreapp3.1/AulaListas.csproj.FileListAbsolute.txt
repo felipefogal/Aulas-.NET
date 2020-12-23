@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\bin\Debug\netcoreapp3.1\AulaListas.exe
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\bin\Debug\netcoreapp3.1\AulaListas.deps.json
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\bin\Debug\netcoreapp3.1\AulaListas.runtimeconfig.json
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\bin\Debug\netcoreapp3.1\AulaListas.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\bin\Debug\netcoreapp3.1\AulaListas.dll
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\bin\Debug\netcoreapp3.1\AulaListas.pdb
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.dll
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.pdb
+C:\workspace\aula_csharp_vs\AulaListas\AulaListas\obj\Debug\netcoreapp3.1\AulaListas.genruntimeconfig.cache
