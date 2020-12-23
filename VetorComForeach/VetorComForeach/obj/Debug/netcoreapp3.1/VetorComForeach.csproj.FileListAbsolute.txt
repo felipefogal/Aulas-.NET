@@ -1,0 +1,12 @@
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\bin\Debug\netcoreapp3.1\VetorComForeach.exe
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\bin\Debug\netcoreapp3.1\VetorComForeach.deps.json
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\bin\Debug\netcoreapp3.1\VetorComForeach.runtimeconfig.json
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\bin\Debug\netcoreapp3.1\VetorComForeach.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\bin\Debug\netcoreapp3.1\VetorComForeach.dll
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\bin\Debug\netcoreapp3.1\VetorComForeach.pdb
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\obj\Debug\netcoreapp3.1\VetorComForeach.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\obj\Debug\netcoreapp3.1\VetorComForeach.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\obj\Debug\netcoreapp3.1\VetorComForeach.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\obj\Debug\netcoreapp3.1\VetorComForeach.dll
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\obj\Debug\netcoreapp3.1\VetorComForeach.pdb
+C:\workspace\aula_csharp_vs\VetorComForeach\VetorComForeach\obj\Debug\netcoreapp3.1\VetorComForeach.genruntimeconfig.cache

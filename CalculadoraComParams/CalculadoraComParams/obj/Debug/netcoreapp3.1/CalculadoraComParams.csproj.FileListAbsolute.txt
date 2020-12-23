@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\bin\Debug\netcoreapp3.1\CalculadoraComParams.exe
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\bin\Debug\netcoreapp3.1\CalculadoraComParams.deps.json
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\bin\Debug\netcoreapp3.1\CalculadoraComParams.runtimeconfig.json
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\bin\Debug\netcoreapp3.1\CalculadoraComParams.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\bin\Debug\netcoreapp3.1\CalculadoraComParams.dll
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\bin\Debug\netcoreapp3.1\CalculadoraComParams.pdb
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.dll
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.pdb
+C:\workspace\aula_csharp_vs\CalculadoraComParams\CalculadoraComParams\obj\Debug\netcoreapp3.1\CalculadoraComParams.genruntimeconfig.cache
