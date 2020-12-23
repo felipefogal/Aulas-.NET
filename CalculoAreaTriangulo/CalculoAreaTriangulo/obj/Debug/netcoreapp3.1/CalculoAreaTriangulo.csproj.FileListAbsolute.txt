@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\bin\Debug\netcoreapp3.1\CalculoAreaTriangulo.exe
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\bin\Debug\netcoreapp3.1\CalculoAreaTriangulo.deps.json
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\bin\Debug\netcoreapp3.1\CalculoAreaTriangulo.runtimeconfig.json
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\bin\Debug\netcoreapp3.1\CalculoAreaTriangulo.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\bin\Debug\netcoreapp3.1\CalculoAreaTriangulo.dll
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\bin\Debug\netcoreapp3.1\CalculoAreaTriangulo.pdb
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.dll
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.pdb
+C:\workspace\aula_csharp_vs\CalculoAreaTriangulo\CalculoAreaTriangulo\obj\Debug\netcoreapp3.1\CalculoAreaTriangulo.genruntimeconfig.cache
