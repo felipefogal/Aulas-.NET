@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\bin\Debug\netcoreapp3.1\CadastraFuncionarios.exe
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\bin\Debug\netcoreapp3.1\CadastraFuncionarios.deps.json
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\bin\Debug\netcoreapp3.1\CadastraFuncionarios.runtimeconfig.json
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\bin\Debug\netcoreapp3.1\CadastraFuncionarios.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\bin\Debug\netcoreapp3.1\CadastraFuncionarios.dll
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\bin\Debug\netcoreapp3.1\CadastraFuncionarios.pdb
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.dll
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.pdb
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.genruntimeconfig.cache
+C:\workspace\aula_csharp_vs\CadastraFuncionarios\CadastraFuncionarios\obj\Debug\netcoreapp3.1\CadastraFuncionarios.csprojAssemblyReference.cache
