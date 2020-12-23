@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\bin\Debug\netcoreapp3.1\EstudoDeProdutos.exe
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\bin\Debug\netcoreapp3.1\EstudoDeProdutos.deps.json
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\bin\Debug\netcoreapp3.1\EstudoDeProdutos.runtimeconfig.json
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\bin\Debug\netcoreapp3.1\EstudoDeProdutos.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\bin\Debug\netcoreapp3.1\EstudoDeProdutos.dll
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\bin\Debug\netcoreapp3.1\EstudoDeProdutos.pdb
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.dll
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.pdb
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.genruntimeconfig.cache
+C:\workspace\aula_csharp_vs\EstudoDeProdutos\EstudoDeProdutos\obj\Debug\netcoreapp3.1\EstudoDeProdutos.csprojAssemblyReference.cache
