@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\bin\Debug\netcoreapp3.1\ExercicioContaCorrente.exe
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\bin\Debug\netcoreapp3.1\ExercicioContaCorrente.deps.json
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\bin\Debug\netcoreapp3.1\ExercicioContaCorrente.runtimeconfig.json
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\bin\Debug\netcoreapp3.1\ExercicioContaCorrente.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\bin\Debug\netcoreapp3.1\ExercicioContaCorrente.dll
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\bin\Debug\netcoreapp3.1\ExercicioContaCorrente.pdb
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.dll
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.pdb
+C:\workspace\aula_csharp_vs\ExercicioContaCorrente\ExercicioContaCorrente\obj\Debug\netcoreapp3.1\ExercicioContaCorrente.genruntimeconfig.cache

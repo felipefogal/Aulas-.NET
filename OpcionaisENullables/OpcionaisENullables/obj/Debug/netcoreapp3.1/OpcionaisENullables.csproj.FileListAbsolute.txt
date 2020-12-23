@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\bin\Debug\netcoreapp3.1\OpcionaisENullables.exe
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\bin\Debug\netcoreapp3.1\OpcionaisENullables.deps.json
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\bin\Debug\netcoreapp3.1\OpcionaisENullables.runtimeconfig.json
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\bin\Debug\netcoreapp3.1\OpcionaisENullables.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\bin\Debug\netcoreapp3.1\OpcionaisENullables.dll
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\bin\Debug\netcoreapp3.1\OpcionaisENullables.pdb
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.dll
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.pdb
+C:\workspace\aula_csharp_vs\OpcionaisENullables\OpcionaisENullables\obj\Debug\netcoreapp3.1\OpcionaisENullables.genruntimeconfig.cache
