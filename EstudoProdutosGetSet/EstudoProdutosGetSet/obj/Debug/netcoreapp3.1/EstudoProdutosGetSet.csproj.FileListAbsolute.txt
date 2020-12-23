@@ -1,0 +1,13 @@
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\bin\Debug\netcoreapp3.1\EstudoProdutosGetSet.exe
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\bin\Debug\netcoreapp3.1\EstudoProdutosGetSet.deps.json
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\bin\Debug\netcoreapp3.1\EstudoProdutosGetSet.runtimeconfig.json
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\bin\Debug\netcoreapp3.1\EstudoProdutosGetSet.runtimeconfig.dev.json
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\bin\Debug\netcoreapp3.1\EstudoProdutosGetSet.dll
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\bin\Debug\netcoreapp3.1\EstudoProdutosGetSet.pdb
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.csprojAssemblyReference.cache
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.AssemblyInfoInputs.cache
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.AssemblyInfo.cs
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.csproj.CoreCompileInputs.cache
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.dll
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.pdb
+C:\Users\224047\source\repos\EstudoProdutosGetSet\EstudoProdutosGetSet\obj\Debug\netcoreapp3.1\EstudoProdutosGetSet.genruntimeconfig.cache

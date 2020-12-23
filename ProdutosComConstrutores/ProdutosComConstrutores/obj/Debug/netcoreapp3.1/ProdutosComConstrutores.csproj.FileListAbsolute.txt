@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\bin\Debug\netcoreapp3.1\ProdutosComConstrutores.exe
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\bin\Debug\netcoreapp3.1\ProdutosComConstrutores.deps.json
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\bin\Debug\netcoreapp3.1\ProdutosComConstrutores.runtimeconfig.json
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\bin\Debug\netcoreapp3.1\ProdutosComConstrutores.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\bin\Debug\netcoreapp3.1\ProdutosComConstrutores.dll
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\bin\Debug\netcoreapp3.1\ProdutosComConstrutores.pdb
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.dll
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.pdb
+C:\workspace\aula_csharp_vs\ProdutosComConstrutores\ProdutosComConstrutores\obj\Debug\netcoreapp3.1\ProdutosComConstrutores.genruntimeconfig.cache
