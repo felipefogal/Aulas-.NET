@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\bin\Debug\netcoreapp3.1\CalculoCircunferencia.exe
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\bin\Debug\netcoreapp3.1\CalculoCircunferencia.deps.json
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\bin\Debug\netcoreapp3.1\CalculoCircunferencia.runtimeconfig.json
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\bin\Debug\netcoreapp3.1\CalculoCircunferencia.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\bin\Debug\netcoreapp3.1\CalculoCircunferencia.dll
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\bin\Debug\netcoreapp3.1\CalculoCircunferencia.pdb
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.dll
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.pdb
+C:\workspace\aula_csharp_vs\CalculoCircunferencia\CalculoCircunferencia\obj\Debug\netcoreapp3.1\CalculoCircunferencia.genruntimeconfig.cache
