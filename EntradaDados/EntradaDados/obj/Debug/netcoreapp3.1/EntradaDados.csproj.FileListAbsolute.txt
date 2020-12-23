@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.exe
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.deps.json
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.runtimeconfig.json
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.dll
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.pdb
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.dll
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.pdb
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.genruntimeconfig.cache
+C:\workspace\aula_csharp_vs\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\224047\source\repos\Comparativos\Comparativos\bin\Debug\netcoreapp3.1\Comparativos.exe
+C:\Users\224047\source\repos\Comparativos\Comparativos\bin\Debug\netcoreapp3.1\Comparativos.deps.json
+C:\Users\224047\source\repos\Comparativos\Comparativos\bin\Debug\netcoreapp3.1\Comparativos.runtimeconfig.json
+C:\Users\224047\source\repos\Comparativos\Comparativos\bin\Debug\netcoreapp3.1\Comparativos.runtimeconfig.dev.json
+C:\Users\224047\source\repos\Comparativos\Comparativos\bin\Debug\netcoreapp3.1\Comparativos.dll
+C:\Users\224047\source\repos\Comparativos\Comparativos\bin\Debug\netcoreapp3.1\Comparativos.pdb
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.csprojAssemblyReference.cache
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.AssemblyInfoInputs.cache
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.AssemblyInfo.cs
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.csproj.CoreCompileInputs.cache
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.dll
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.pdb
+C:\Users\224047\source\repos\Comparativos\Comparativos\obj\Debug\netcoreapp3.1\Comparativos.genruntimeconfig.cache

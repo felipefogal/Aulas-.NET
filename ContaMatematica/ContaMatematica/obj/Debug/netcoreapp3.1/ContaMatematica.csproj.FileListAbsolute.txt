@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\bin\Debug\netcoreapp3.1\ContaMatematica.exe
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\bin\Debug\netcoreapp3.1\ContaMatematica.deps.json
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\bin\Debug\netcoreapp3.1\ContaMatematica.runtimeconfig.json
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\bin\Debug\netcoreapp3.1\ContaMatematica.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\bin\Debug\netcoreapp3.1\ContaMatematica.dll
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\bin\Debug\netcoreapp3.1\ContaMatematica.pdb
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.dll
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.pdb
+C:\workspace\aula_csharp_vs\ContaMatematica\ContaMatematica\obj\Debug\netcoreapp3.1\ContaMatematica.genruntimeconfig.cache
