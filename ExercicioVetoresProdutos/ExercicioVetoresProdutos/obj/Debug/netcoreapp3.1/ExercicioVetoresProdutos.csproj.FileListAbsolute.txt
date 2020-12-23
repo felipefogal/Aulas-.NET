@@ -1,0 +1,13 @@
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\bin\Debug\netcoreapp3.1\ExercicioVetoresProdutos.exe
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\bin\Debug\netcoreapp3.1\ExercicioVetoresProdutos.deps.json
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\bin\Debug\netcoreapp3.1\ExercicioVetoresProdutos.runtimeconfig.json
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\bin\Debug\netcoreapp3.1\ExercicioVetoresProdutos.runtimeconfig.dev.json
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\bin\Debug\netcoreapp3.1\ExercicioVetoresProdutos.dll
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\bin\Debug\netcoreapp3.1\ExercicioVetoresProdutos.pdb
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.csprojAssemblyReference.cache
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.AssemblyInfoInputs.cache
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.AssemblyInfo.cs
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.csproj.CoreCompileInputs.cache
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.dll
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.pdb
+C:\workspace\aula_csharp_vs\ExercicioVetoresProdutos\ExercicioVetoresProdutos\obj\Debug\netcoreapp3.1\ExercicioVetoresProdutos.genruntimeconfig.cache
